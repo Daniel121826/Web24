@@ -309,10 +309,12 @@ color: aliceblue;
     .formlogin {
         float: left;
         width: 49%;
+        
     }
     .formregister {
         float: right;
         width: 49%;
+        
     }
     .cb{
         clear: both;
@@ -322,6 +324,7 @@ color: aliceblue;
         background-color: rgb(172, 28, 14);
         width: 50%;
         margin: 0% auto;
+        border-bottom-color: black;
     }
     .col3{
       margin: 0% 5%;
@@ -333,6 +336,9 @@ color: aliceblue;
         text-align: center;
         width: 90%;
         
+    }
+    .boton{
+        background-color: rgb(186, 8, 8);
     }
         
         
