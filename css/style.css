@@ -138,7 +138,7 @@ nav li:hover {
 }
 
 .text-right{
-    text-align: right;
+    margin: 0% auto;
 }
 
 a {
@@ -267,43 +267,47 @@ color: aliceblue;
     background-color:rgb(107, 239, 145);
     }
     #tablas .LMSG{
-        background-color: aqua;
+        background-color:rgb(100, 180, 239);
         color: black;
+        font-weight: 500;
+        
     }
     #tablas .ENDE{
         background-color:rgb(143, 210, 144) ;
         color: black;
+        font-weight: 500;
     }
     #tablas .PROG{
-        background-color:rgb(201, 200, 104) ;color: black;
+        background-color:rgb(201, 200, 104) ;color: black;font-weight: 500;
     }
     #tablas .PIMD{
-        background-color:rgb(178, 115, 118) ;color: black;
+        background-color:rgb(178, 115, 118) ;color: black;font-weight: 500;
     }
     #tablas .DASP{
-        background-color:rgb(242, 154, 97);color: black;
+        background-color:rgb(242, 154, 97);color: black;font-weight: 500;
     }
     #tablas .BDD{
-        background-color:rgb(97, 162, 145);color: black;
+        background-color:rgb(97, 162, 145);color: black;font-weight: 500;
     }
     #tablas .IPCG{
-        background-color: rgb(2, 212, 2);color: black;
+        background-color: rgb(2, 212, 2);color: black;font-weight: 500;
     }
     #tablas .SASP{
-        background-color:rgb(201, 198, 240);color: black;
+        background-color:rgb(201, 198, 240);color: black;font-weight: 500;
     }
     #tablas .SISI{
-        background-color:rgb(2, 122, 244);color: black;
+        background-color:rgb(2, 122, 244);color: black;font-weight: 500;
     }
     #tablas .IPE{
-        background-color:rgb(228, 229, 192);color: black;
+        background-color:rgb(228, 229, 192);color: black;font-weight: 500;
     }
     #tablas .verde th{
-        color:rgb(27, 167, 20);
+        color:rgb(29, 117, 124);
         background-color: white;
+        font-weight: 200;
     }
     #tablas .verde2 {
-        color:rgb(27, 167, 20);
+        color:rgb(29, 117, 124);
         background-color: white;
     }
     .formlogin {
@@ -341,9 +345,24 @@ color: aliceblue;
         background-color: rgb(186, 8, 8);
     }
     .blanco{
-        background-color: white;
+        background-color:rgb(240, 240, 240);
+        margin: 0% auto;
+        width: 60%;
     }
+    .cursiva{
+        font-weight: bolder;
+        color: rgb(29, 117, 124);
+        
+    }
+    .centrado{
+        text-align: center;
+    }
+    
+        
+        
 
+    
+  
         
         
     
